@@ -27,11 +27,14 @@ After completing the 5 exercises, you're ready to move onto submission.
 
 1. Click the name of your glitch project in the upper left and choose `advanced options` from the dropdown
 1. Click the `Export to Github` button
-1. In the popup, type `ITP-175-FA18/p0-` followed by your github username and click OK
+1. In the popup, type `ITP-175-FA18/p0-` followed by your github username if it is not already there and click OK
+1. Type in a Commit message and click ok. You should see an `export successful` message on the right side of the screen.
+1. Visit https://github.com/ITP-175-FA18/p0-YOURUSERNAME and if you see a yellow box saying `glitch` on the left and a green `Compare and pull request` button on the right, Glitch successfully exported and you're done.
 
 ## Grading Rubric
 
-|-----|--------|
+|  %  |  Item                          |
+|-----|--------------------------------|
 | 20% | Completing the exercise 1 task |
 | 20% | Completing the exercise 2 task |
 | 20% | Completing the exercise 3 task |
