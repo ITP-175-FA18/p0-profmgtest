@@ -13,3 +13,5 @@ let test1 = 6;
 let test2 = 87;
 let test3 = 486;
 let test4 = -40;
+
+console.log("testing 123");
